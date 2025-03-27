@@ -5,12 +5,12 @@
 ---
 
 ## 🚀 **Sobre Mí**
-Soy un desarrollador web con experiencia en tecnologías frontend y backend. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
+Soy un desarrollador web con conocimientos sobre frontend y backend. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente.
 
 ## 🔥 **Tech Stack**
 ### 💻 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" height="50" alt="Frontend Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap" height="50" alt="Frontend Tech Stack">
 </p>
 
 ### 🛠 **Backend & Bases de Datos**
@@ -22,6 +22,9 @@ Soy un desarrollador web con experiencia en tecnologías frontend y backend. Me 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,tailwind" height="50" alt="Learning Tech Stack">
 </p>
+
+### ⚙️ **Herramientas & Otras Tecnologías**
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,notion,vscode" height="50" alt="Tools & Technologies"> </p>
 
 ---
 
