@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy David
 
-<img src="[https://source.unsplash.com/1600x400/?technology,code](https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D)" alt="Banner" width="100%">
-
 ✨ **Desarrollador Web | Apasionado por la tecnología y el desarrollo** ✨  
 
 ---
